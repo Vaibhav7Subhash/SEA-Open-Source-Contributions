@@ -1,6 +1,6 @@
 # Software Maintenance, Reengineering, and AI in Software Engineering
 
-**Name:** Manu Arunmozhy  
+**Name:** vaibhav subash thundutharayil  
 **USN:** [NB25CSE396]  
 **Assigned Case Study:** Question 5 – Software Maintenance, Reengineering, and AI in Software Engineering
 
